@@ -25,5 +25,5 @@ OpenPyXL (Excel automation)
 This project helps identify market demand trends for various programming technologies, supporting data-driven career or hiring decisions.
 
 # Credit:
-The dataset used in this lab comes from the following source: https://www.kaggle.com/promptcloud/jobs-on-naukricom under a Public Domain license
+The dataset used in this project comes from the following source: https://www.kaggle.com/promptcloud/jobs-on-naukricom under a Public Domain license
 IBM Modified link - "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/module%201/Accessing%20Data%20Using%20APIs/jobs.json"
